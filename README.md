@@ -1,4 +1,4 @@
-**Three simple interactive games developed using PyOpenGL
+**Three simple interactive games developed using PyOpenGL**
 
 ![ss14](https://github.com/user-attachments/assets/cb854937-c3df-4351-a5b8-d16707463870)
 
